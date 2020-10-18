@@ -1,5 +1,23 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>
+      Project Radio Low-Chill start since juny 2020, we received
+      message criticism and suggestions for development this apps,
+      <br />We also received recomendation or suggestions music from you
+    </p>
+    <br />
+    <p>
+      If you like this website, share this website and enjoy the music, we proud can relaxing your soul,
+      special thanks from
+      <br />http://low.chill.app
+    </p>
+    <br />
+    <p>Follow us on Instagram or join Discord channel</p>
   </div>
 </template>
+
+<style scoped>
+p {
+  color: white;
+}
+</style>
